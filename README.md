@@ -8,9 +8,6 @@
 
 <h2 align="left">About me...</h2>
 
-###
-
-<p align="left">Questo repository contiene le esercitazioni settimanali svolte durante il corso Data Analyst</p>
 
 ###
 
