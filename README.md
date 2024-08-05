@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Filo Bianco and I'm a Java Data Analyst from Italy</p>
+<p align="left">My name is Filo Bianco and I'm a Junior Data Analyst from Italy</p>
 
 ###
 
